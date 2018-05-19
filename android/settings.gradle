@@ -1,0 +1,3 @@
+rootProject.name = 'antd_mobile'
+
+include ':app'
